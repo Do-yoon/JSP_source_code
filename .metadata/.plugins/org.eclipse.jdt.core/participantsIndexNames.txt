@@ -1,6 +1,8 @@
 INDEX VERSION 1.131
 C:\work\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1868173374.index
 \MySNS\src\main\java
+C:\work\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1403570784.index
+\Hello\src\main\java
 C:\work\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\228605898.index
 \Hello2
 C:\work\project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1406213844.index
